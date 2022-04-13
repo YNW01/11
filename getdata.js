@@ -1,0 +1,1 @@
+successD({name: ' sss' , age: 22})
